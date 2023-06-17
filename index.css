@@ -6,6 +6,7 @@
 
 body {
     height: 100vh;
+    background: whitesmoke;
 }
 
 .main-banner {
@@ -13,7 +14,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 40%;
+    height: 30%;
     background: linear-gradient(#e66465, #9198e5);
     text-align: center;
 }
